@@ -1,0 +1,20 @@
+body{
+    background-color: #ffcba4;
+    font-family: 'Open Sans Condensed', sans-serif;    
+}
+
+.container {
+    background-color: #8C8C8C;
+    border: 2px solid black;
+    border-radius: 51px 6px;
+    color: white;
+    margin: 5rem;  
+    padding: 2rem;
+}
+
+.header1{
+    font-weight: 800;
+    font-size: 3.6rem;
+    max-width: 100%;
+    text-align: center;
+}
